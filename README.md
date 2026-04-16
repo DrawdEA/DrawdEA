@@ -2,7 +2,7 @@
 
 **AI Engineer** · Full-stack · CS @ ADMU
 
-Building production AI systems — agentic pipelines, knowledge graphs, RAG infra, MCP servers.  
+Building production AI systems. Working on agentic pipelines, knowledge graphs, RAG infra, MCP servers.  
 Based in Manila. Open to **international remote AI eng roles**.
 
 → [edwarddiesta.com](https://edwarddiesta.com) · [prospect-brief.edwarddiesta.com](https://prospect-brief.edwarddiesta.com)
