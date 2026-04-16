@@ -5,7 +5,7 @@
 Building production AI systems. Working on agentic pipelines, knowledge graphs, RAG infra, MCP servers.  
 Based in Manila. Open to **international remote AI eng roles**.
 
-→ [edwarddiesta.com](https://edwarddiesta.com)
+[edwarddiesta.com](https://edwarddiesta.com)
 
 ---
 
