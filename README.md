@@ -1,40 +1,44 @@
-<h1 align="center">Edward Joshua Diesta</h1>
-<p align="center">
-  <code>CS @ Ateneo · AI Engineer · Full-stack → LLM infra → Agentic systems</code>
-</p>
+# edward joshua diesta
 
-<p align="center">
-  <a href="https://diesta.dev">diesta.dev</a> ·
-  <a href="https://twitter.com/[your_handle]">Twitter</a> ·
-  <a href="https://prospect-brief.edwarddiesta.com">Prospect Brief Agent</a>
-</p>
+**AI Engineer** · Full-stack · CS @ Ateneo de Manila (Magna Cum Laude)
+
+Building production AI systems — agentic pipelines, knowledge graphs, RAG infra, MCP servers.  
+Based in Manila. Open to **international remote AI eng roles**.
+
+→ [edwarddiesta.com](https://edwarddiesta.com) · [prospect-brief.edwarddiesta.com](https://prospect-brief.edwarddiesta.com)
 
 ---
 
-### now
-- Shipping **LoClock** — location-based commute alarm (React Native / Expo) `[App Store pending]`
-- CTO @ **Crystal** — AI knowledge graph for PH mid-market companies
-- Open to **international remote AI eng internships** · turning 20 in June
+### what i'm shipping
+
+- **LoClock** — location-based commute alarm · React Native / Expo / Convex · App Store pending
+- **Crystal** — AI knowledge graph for PH enterprise · Word add-in · CTO
 
 ---
 
 ### projects
 
-| | |
-|---|---|
-| [**Prospect Brief Agent**](https://prospect-brief.edwarddiesta.com) | Agentic pipeline → structured sales briefs from a URL or name |
-| **LoClock** | Location-aware alarm that fires when you're near your stop · React Native / Expo / Convex |
-| **Crystal** | Word add-in that builds a knowledge graph across enterprise documents |
-| **SALBAR** | GovTech · Naga Mayoral Hackathon Top 5 · received absorption offer |
-| **Hakot** | 1st Runner Up, Ship or Be Shipped hackathon |
+**[Prospect Brief Agent](https://prospect-brief.edwarddiesta.com)**  
+Agentic pipeline that generates structured prospect briefs from a name or URL. Built with LangChain, RAG, and multi-step tool use.
+
+**[Eddy Bot](https://edwarddiesta.com)**  
+RAG chatbot over my own portfolio and writings. Ask it anything about my work.
+
+**LoClock**  
+Fires an alarm when your commute stop is close — not at a fixed time. Background location, Expo, Convex, Supabase.
+
+**Crystal**  
+Word add-in that extracts a structured knowledge graph across documents. Built for Philippine mid-market companies where RAG alone isn't enough.
+
+**SALBAR** · Naga Mayoral Hackathon — Top 5, absorption offer  
+**Hakot** · Ship or Be Shipped — 1st Runner Up
 
 ---
 
 ### stack
-`React Native` `Next.js` `TypeScript` `Python` `Supabase` `Convex` `LangChain` `RAG` `MCP`
+
+`Python` `TypeScript` `LangChain` `RAG` `MCP` `React Native / Expo` `Next.js` `Supabase` `Convex`
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrawdEA&show_icons=true&hide_border=true&theme=default" />
-</p>
+*Ateneo de Manila · DOST-SEI Scholar · AVP IT @ MISA · qtr.zip*
