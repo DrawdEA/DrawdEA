@@ -12,8 +12,6 @@ internal operational software.
 
 - **Bytespace Labs** - Shipped 21 Bot0 Desktop engineering changes across Electron UX,
   cross-platform reliability, artifact editing, integrations, and performance.
-- **SOFI AI** - Built an internal QA interface for reviewing and evaluating AI outputs,
-  helping the team iterate faster on model behavior.
 - **Sip & Scale** - Building and maintaining the startup's public-facing website with
   Next.js to support its go-to-market presence.
 - **MISA** - Led a registration and voting system supporting 550+ members across 15+
